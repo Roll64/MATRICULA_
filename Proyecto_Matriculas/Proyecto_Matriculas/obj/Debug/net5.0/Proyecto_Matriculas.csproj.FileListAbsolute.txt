@@ -1,0 +1,16 @@
+F:\CURSO DESARROLLO WEB - C#\Semana 3\Dia 3\Proyecto_Matriculas\Proyecto_Matriculas\obj\Debug\net5.0\Proyecto_Matriculas.GeneratedMSBuildEditorConfig.editorconfig
+F:\CURSO DESARROLLO WEB - C#\Semana 3\Dia 3\Proyecto_Matriculas\Proyecto_Matriculas\obj\Debug\net5.0\Proyecto_Matriculas.AssemblyInfoInputs.cache
+F:\CURSO DESARROLLO WEB - C#\Semana 3\Dia 3\Proyecto_Matriculas\Proyecto_Matriculas\obj\Debug\net5.0\Proyecto_Matriculas.AssemblyInfo.cs
+F:\CURSO DESARROLLO WEB - C#\Semana 3\Dia 3\Proyecto_Matriculas\Proyecto_Matriculas\obj\Debug\net5.0\Proyecto_Matriculas.csproj.CoreCompileInputs.cache
+F:\CURSO DESARROLLO WEB - C#\Semana 3\Dia 3\Proyecto_Matriculas\Proyecto_Matriculas\bin\Debug\net5.0\Proyecto_Matriculas.exe
+F:\CURSO DESARROLLO WEB - C#\Semana 3\Dia 3\Proyecto_Matriculas\Proyecto_Matriculas\bin\Debug\net5.0\Proyecto_Matriculas.deps.json
+F:\CURSO DESARROLLO WEB - C#\Semana 3\Dia 3\Proyecto_Matriculas\Proyecto_Matriculas\bin\Debug\net5.0\Proyecto_Matriculas.runtimeconfig.json
+F:\CURSO DESARROLLO WEB - C#\Semana 3\Dia 3\Proyecto_Matriculas\Proyecto_Matriculas\bin\Debug\net5.0\Proyecto_Matriculas.runtimeconfig.dev.json
+F:\CURSO DESARROLLO WEB - C#\Semana 3\Dia 3\Proyecto_Matriculas\Proyecto_Matriculas\bin\Debug\net5.0\Proyecto_Matriculas.dll
+F:\CURSO DESARROLLO WEB - C#\Semana 3\Dia 3\Proyecto_Matriculas\Proyecto_Matriculas\bin\Debug\net5.0\ref\Proyecto_Matriculas.dll
+F:\CURSO DESARROLLO WEB - C#\Semana 3\Dia 3\Proyecto_Matriculas\Proyecto_Matriculas\bin\Debug\net5.0\Proyecto_Matriculas.pdb
+F:\CURSO DESARROLLO WEB - C#\Semana 3\Dia 3\Proyecto_Matriculas\Proyecto_Matriculas\obj\Debug\net5.0\Proyecto_Matriculas.dll
+F:\CURSO DESARROLLO WEB - C#\Semana 3\Dia 3\Proyecto_Matriculas\Proyecto_Matriculas\obj\Debug\net5.0\ref\Proyecto_Matriculas.dll
+F:\CURSO DESARROLLO WEB - C#\Semana 3\Dia 3\Proyecto_Matriculas\Proyecto_Matriculas\obj\Debug\net5.0\Proyecto_Matriculas.pdb
+F:\CURSO DESARROLLO WEB - C#\Semana 3\Dia 3\Proyecto_Matriculas\Proyecto_Matriculas\obj\Debug\net5.0\Proyecto_Matriculas.genruntimeconfig.cache
+F:\CURSO DESARROLLO WEB - C#\Semana 3\Dia 3\Proyecto_Matriculas\Proyecto_Matriculas\obj\Debug\net5.0\Proyecto_Matriculas.csproj.AssemblyReference.cache
